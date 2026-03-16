@@ -10,9 +10,9 @@
 <h2 align="center">🚀 About Me</h2>
 
 - 🌱 Currently learning **AWS**
-- 🔧 Passionate about **DevOps**, **Cloud Infrastructure**, and **Containerisation**
+- 🔧 Passionate about **Cloud Infrastructure**, **Containerisation** and **Backend Engineering**
 - 💬 Ask me about **Docker, Bash, Linux, and Networking**
-- 📫 Reach me at: **your@email.com**
+- 📫 Reach me at: **jaydenmukasa00@gmail.com**
 
 ---
 
