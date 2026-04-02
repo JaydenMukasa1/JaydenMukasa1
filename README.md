@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jayden </h1>
-<h3 align="center">Aspiring Backend Engineer | IT Technician</h3>
+<h3 align="center">Aspiring Devops Engineer | IT Technician</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/CURRENTLY%20LEARNING-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
